@@ -1,0 +1,2 @@
+/home/andyser/code/SDC_tracking/SDC_final_project/catkin_ws/src/Tracking/ground_truth/config/tracking_ground_truth_3.csv
+/home/andyser/code/SDC_tracking/SDC_final_project/catkin_ws/src/Tracking/ground_truth/result.csv

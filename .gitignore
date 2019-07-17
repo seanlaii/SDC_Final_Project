@@ -1,0 +1,6 @@
+*.bag
+*.csv
+*.pcd
+build/
+devel/
+*.pdf

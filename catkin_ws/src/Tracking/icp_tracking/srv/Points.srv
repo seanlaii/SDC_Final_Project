@@ -1,0 +1,5 @@
+#Request data
+sensor_msgs/PointCloud2 point_cloud
+geometry_msgs/Point[] points
+---
+#Response data

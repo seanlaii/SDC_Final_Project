@@ -1,0 +1,4 @@
+<launch>
+    <param name ="/use_sim_time" value="true"/>
+    <node name="get_gps" pkg="generate_answer" type="get_gps.py" output="screen"/>
+</launch>
